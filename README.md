@@ -1,68 +1,41 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Aplicação Web: 
 
-## Available Scripts
+- TechTutor - Democratizando a tecnologia para todoss
 
-In the project directory, you can run:
 
-### `npm start`
+* Desenvolvedores: 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Felipe Gushiken, Hugo Brito, Leandro Wilker, Ramon Dias e Vinícius Oliveira.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+* Descrição do Projeto:
 
-### `npm test`
+- Aplicação web voltada para inclusão de tecnologia para a pessoas que possuem pouco ou nenhum know-how de como utilizar as tecnologias de nosso cotidiano. Fazendo a ponte entre os voluntários que querem doar uma parte do seu tempo e a pessoas que necessitam de ajuda. 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Funcionalidades:
 
-### `npm run build`
+- Cadastro dos usuários: voluntário e pessoa que precisa da ajuda;
+- Especificação dos horários livres dos voluntários; (Inputs no cadastro do profissional);
+- SOLICITAÇÃO DE AJUDA DO USUÁRIO: Poderia ser um OPTION/SELECT para o usuário selecionar o parâmetro necessitado. Porém para 'Others', podemos colocar um Form do usuário;
+- FEEDBACK DO USUÁRIO: Parâmetro para emissão de Certificado e qualidade da prestação do Serviço;
+- EMISSÃO DE CERTIFICADO: Renderização Condicional caso o voluntário atenda >= X feedbacks positivos dados pelo usuário;
+- Sistema doação entre os voluntário e o usuário que recebeu a ajuda, sem valor mínimo; ON HOLD (ainda em discussão).
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Tecnologias utilizadas:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- React.Js;
+- Styled Components;
+- Axios;
+- -Material Ui (ainda em discussão).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Wireframe
 
-### `npm run eject`
+![think](https://user-images.githubusercontent.com/85254026/128077825-baf9cc3f-4d66-4905-ade9-289c86ac8a77.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* Palheta de cores utilizadas:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image (1)](https://user-images.githubusercontent.com/85254026/128077887-44d342f3-7b56-46c3-8836-f638c8a07db1.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
