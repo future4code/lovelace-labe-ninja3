@@ -24,7 +24,7 @@
 - React.Js;
 - Styled Components;
 - Axios;
-- -Material Ui (ainda em discussão).
+- -Material UI (ainda em discussão).
 
 * Wireframe
 
