@@ -8,7 +8,7 @@
 
 * Descrição do Projeto:
 
-- Aplicação web voltada para inclusão de tecnologia para pessoas que possuem pouco ou nenhum know-how de como utilizar as tecnologias de nosso cotidiano. Fazendo a ponte entre os voluntários que querem doar uma parte do seu tempo e a pessoas que necessitam de ajuda. 
+- Aplicação web voltada para inclusão de tecnologia para pessoas que possuem pouco ou nenhum know-how de como utilizar as tecnologias de nosso cotidiano. Fazendo a ponte entre os voluntários que querem doar uma parte do seu tempo e pessoas que necessitam de ajuda. 
 
 * Funcionalidades:
 
@@ -30,7 +30,7 @@
 
 ![think](https://user-images.githubusercontent.com/85254026/128077825-baf9cc3f-4d66-4905-ade9-289c86ac8a77.png)
 
-* Palheta de cores utilizadas:
+* Paleta de cores utilizadas:
 
 ![image (1)](https://user-images.githubusercontent.com/85254026/128077887-44d342f3-7b56-46c3-8836-f638c8a07db1.png)
 
