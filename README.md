@@ -1,7 +1,6 @@
 * Aplicação Web: 
 
-- TechTutor - Democratizando a tecnologia para todoss
-
+- TechTutor - Democratizando a tecnologia para todos.
 
 * Desenvolvedores: 
 
@@ -9,7 +8,7 @@
 
 * Descrição do Projeto:
 
-- Aplicação web voltada para inclusão de tecnologia para a pessoas que possuem pouco ou nenhum know-how de como utilizar as tecnologias de nosso cotidiano. Fazendo a ponte entre os voluntários que querem doar uma parte do seu tempo e a pessoas que necessitam de ajuda. 
+- Aplicação web voltada para inclusão de tecnologia para pessoas que possuem pouco ou nenhum know-how de como utilizar as tecnologias de nosso cotidiano. Fazendo a ponte entre os voluntários que querem doar uma parte do seu tempo e a pessoas que necessitam de ajuda. 
 
 * Funcionalidades:
 
