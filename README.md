@@ -32,6 +32,7 @@
 
 ![aba de detalhes 2 versão](https://user-images.githubusercontent.com/85254026/128247748-09b9485b-5964-4593-87f1-e47a63a8e387.jpg)
 
+![aba sobre nos (2)](https://user-images.githubusercontent.com/85254026/128254223-4dc73674-d57f-4b3c-b415-7dbdf8952118.jpg)
 
 
 * Paleta de cores utilizadas:
