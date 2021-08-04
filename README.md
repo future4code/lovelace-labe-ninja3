@@ -30,9 +30,15 @@
 
 ![think](https://user-images.githubusercontent.com/85254026/128077825-baf9cc3f-4d66-4905-ade9-289c86ac8a77.png)
 
+![aba de detalhes 2 versão](https://user-images.githubusercontent.com/85254026/128247748-09b9485b-5964-4593-87f1-e47a63a8e387.jpg)
+
+
+
 * Paleta de cores utilizadas:
 
 ![image (1)](https://user-images.githubusercontent.com/85254026/128077887-44d342f3-7b56-46c3-8836-f638c8a07db1.png)
+
+
 
 
 
