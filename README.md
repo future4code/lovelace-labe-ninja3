@@ -32,7 +32,7 @@ Vinícius | Oliveira
 - -Material UI (ainda em discussão).
 
 ## Link do Surge:
-- techtutor-app.surge.sh
+https://techtutor-app.surge.sh/
 
 ## Wireframe
 
