@@ -36,12 +36,17 @@ https://techtutor-app.surge.sh/
 
 ## Wireframe
 
-![think](https://user-images.githubusercontent.com/85254026/128077825-baf9cc3f-4d66-4905-ade9-289c86ac8a77.png)
+![image](https://user-images.githubusercontent.com/52759918/128646021-91299c04-cbd6-4088-a121-486b58923a60.png)
 
-![aba de detalhes 2 versão](https://user-images.githubusercontent.com/85254026/128247748-09b9485b-5964-4593-87f1-e47a63a8e387.jpg)
+![image](https://user-images.githubusercontent.com/52759918/128646036-a01a5978-4d7f-485f-b91e-2ffb8830178b.png)
 
-![aba sobre nos (2)](https://user-images.githubusercontent.com/85254026/128254223-4dc73674-d57f-4b3c-b415-7dbdf8952118.jpg)
+![image](https://user-images.githubusercontent.com/52759918/128646045-c911c79d-7fa7-4532-b8ac-bb8da33cad71.png)
 
+![image](https://user-images.githubusercontent.com/52759918/128646058-e2d3dfbe-08cf-4393-8624-579e3d9406aa.png)
+
+![image](https://user-images.githubusercontent.com/52759918/128646081-9bd621fb-535f-470a-a49d-70483c9b84e7.png)
+
+![image](https://user-images.githubusercontent.com/52759918/128646090-ef6205c3-6db6-494c-a160-4b02ecfc7ad5.png)
 
 * Paleta de cores utilizadas:
 
