@@ -1,68 +1,60 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Aplicação Web: 
 
-## Available Scripts
+- TechTutor - Democratizando a tecnologia para todos.
 
-In the project directory, you can run:
+## Desenvolvedores: 
+- Felipe Gushiken, Hugo Brito, Leandro Wilker, Ramon Dias e Vinícius Oliveira.
 
-### `npm start`
+## Descrição do Projeto:
+- Aplicação web voltada para inclusão de tecnologia para pessoas que possuem pouco ou nenhum know-how de como utilizar as tecnologias de nosso cotidiano. Fazendo a ponte entre os voluntários que querem doar uma parte do seu tempo e pessoas que necessitam de ajuda. 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## INTEGRANTES
+Nome      | Sobrenome
+--------- | ------
+Felipe    | Gushiken
+Hugo    | Brito
+Leandro  | Wilker
+Ramon    | Dias
+Vinícius | Oliveira
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Funcionalidades:
+- Cadastro dos usuários: voluntário e pessoa que precisa da ajuda;
+- Especificação dos horários livres dos voluntários; (Inputs no cadastro do profissional);
+- SOLICITAÇÃO DE AJUDA DO USUÁRIO: Poderia ser um OPTION/SELECT para o usuário selecionar o parâmetro necessitado. Porém para 'Others', podemos colocar um Form do usuário;
+- FEEDBACK DO USUÁRIO: Parâmetro para emissão de Certificado e qualidade da prestação do Serviço;
+- EMISSÃO DE CERTIFICADO: Renderização Condicional caso o voluntário atenda >= X feedbacks positivos dados pelo usuário;
+- Sistema doação entre os voluntário e o usuário que recebeu a ajuda, sem valor mínimo; ON HOLD (ainda em discussão).
 
-### `npm test`
+## Tecnologias utilizadas:
+- React.Js;
+- Styled Components;
+- Axios;
+- -Material UI (ainda em discussão).
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Link do Surge:
+https://techtutor-app.surge.sh/
 
-### `npm run build`
+## Wireframe
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/52759918/128646021-91299c04-cbd6-4088-a121-486b58923a60.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/52759918/128646036-a01a5978-4d7f-485f-b91e-2ffb8830178b.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/52759918/128646045-c911c79d-7fa7-4532-b8ac-bb8da33cad71.png)
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/52759918/128646058-e2d3dfbe-08cf-4393-8624-579e3d9406aa.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![image](https://user-images.githubusercontent.com/52759918/128646081-9bd621fb-535f-470a-a49d-70483c9b84e7.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://user-images.githubusercontent.com/52759918/128646090-ef6205c3-6db6-494c-a160-4b02ecfc7ad5.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* Paleta de cores utilizadas:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![image (1)](https://user-images.githubusercontent.com/85254026/128077887-44d342f3-7b56-46c3-8836-f638c8a07db1.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
